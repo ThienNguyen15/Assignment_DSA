@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 void readline(string input_str, string &input_1, string &input_2);
-	void readline(string input_str, string &input_1, string &input_2)
+void readline(string input_str, string &input_1, string &input_2)
 {
     string space1 = " ";
     size_t pos = 0;
